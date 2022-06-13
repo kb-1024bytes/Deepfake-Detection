@@ -2,3 +2,5 @@ DEEPFAKE DETECTION
 This project is used to detect whether a video is manipulated by
 deepfake algorithms. It uses YOLO model for categorising the face
 whetherit is deepfaked or not.
+
+https://github.com/pjreddie/darknet
